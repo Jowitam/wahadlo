@@ -1,0 +1,19 @@
+html, body {
+   height: auto;
+   width: auto;
+  }
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+ }
+h1{
+  color: #000000;
+  align: center;
+}
+p{
+  color: #000000;
+}
